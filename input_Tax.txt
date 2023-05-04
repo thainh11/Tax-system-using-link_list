@@ -1,0 +1,5 @@
+KH01;Nguyen_Van_A;5000;700
+KH03;Nguyen_Van_C;11000;800
+KH02;Nguyen_Van_B;6000;1000
+KH05;Nguyen_Van_E;2000;100
+KH04;Nguyen_Van_D;10000;900
